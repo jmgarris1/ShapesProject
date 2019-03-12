@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace MyShapes
 {
     class Program
     {
@@ -19,9 +19,9 @@ namespace ConsoleApp2
                 Triangle tri = new Triangle();
                 tri.Draw();
 
-                //rect1.Color = ConsoleColor.Red;
-                //rect1.Draw();
-                //rect2.Draw();
+                rect1.Color = ConsoleColor.Red;
+                rect1.Draw();
+                rect2.Draw();
                 tri3.Draw();
                 Console.ReadLine();
             }
