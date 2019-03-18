@@ -1,0 +1,13 @@
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\MyShapes.exe.config
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\MyShapes.exe
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\MyShapes.pdb
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\MyShapes.csprojResolveAssemblyReference.cache
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\MyShapes.exe
+C:\Users\jgarrison\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\MyShapes.pdb
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\bin\Debug\MyShapes.exe.config
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\bin\Debug\MyShapes.exe
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\bin\Debug\MyShapes.pdb
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\obj\Debug\MyShapes.exe
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\obj\Debug\MyShapes.pdb
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\obj\Debug\MyShapes.csprojAssemblyReference.cache
+C:\Users\jgarrison\Documents\Visual Studio 2017\Projects\ShapesProject\Shapes\obj\Debug\MyShapes.csproj.CoreCompileInputs.cache
